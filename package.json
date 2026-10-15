@@ -1,0 +1,1 @@
+{"name":"bounded-policy-compiler","private":true,"type":"module","dependencies":{"genlayer-js":"1.1.8"},"scripts":{"test:sdk":"node scripts/sdk-check.mjs"}}

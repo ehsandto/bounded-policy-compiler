@@ -1,0 +1,5 @@
+Fictional workshop policy excerpt for a software demonstration.
+
+Operators whose workshop access is revoked must not use the workshop laser cutter, regardless of staff status or supervision.
+
+When access is not revoked, the excerpt does not specify who may use the laser cutter. No permission may be inferred from that silence.

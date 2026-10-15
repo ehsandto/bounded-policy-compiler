@@ -1,0 +1,9 @@
+Fictional workshop laser-cutter policy, revision 1. This is a software demonstration, not instructions for operating machinery.
+
+Anyone whose workshop access is revoked must not use the workshop laser cutter, regardless of staff status or supervision. This revocation rule overrides every permission below.
+
+When access is not revoked, staff members may use the laser cutter with or without a supervisor present.
+
+When access is not revoked, non-staff operators may use the laser cutter only while a qualified supervisor is present. Non-staff operators must not use it without a qualified supervisor present.
+
+These three conditions completely determine permission under this fictional policy. No other conditions or exceptions apply.
