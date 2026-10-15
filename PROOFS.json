@@ -1,0 +1,50 @@
+{
+  "address": "0x3B25560249B8D5b129e69dE0894E072AdB9F3e55",
+  "fixture_commit": "57390a2190c5935792a86bbd6dc3bbfcbdb62902",
+  "transactions": [
+    {
+      "step": "deploy",
+      "hash": "0x9f2f2f134f24780c84c79a467faef6385913840dcdad04f7738dc6bb95380319",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "consensus": "MAJORITY_AGREE"
+    },
+    {
+      "step": "complete",
+      "hash": "0x71daf1569c2027c12d3e72b429e3d6407217d6cf4639f4789d7e20b3d604eb7c",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "consensus": "MAJORITY_AGREE"
+    },
+    {
+      "step": "unresolved",
+      "status": "FINALIZED",
+      "hash": "0x045c0083309e0a243432db433c20f5c8665a7c70829aee7991579c50a7a9f8b8",
+      "execution": "SUCCESS",
+      "consensus": "MAJORITY_AGREE"
+    },
+    {
+      "step": "badhash",
+      "status": "FINALIZED",
+      "hash": "0xf4f61cdcb9d7ceef8e7eaebb0a76fdafbfae5edf0100760776996581472f3122",
+      "execution": "SUCCESS",
+      "consensus": "MAJORITY_AGREE"
+    },
+    {
+      "step": "replay",
+      "status": "FINALIZED",
+      "hash": "0x3695beef44d67126854d90ad5244a8da221c842e381ca3b0eb05126028189740",
+      "execution": "ERROR",
+      "consensus": "MAJORITY_AGREE",
+      "expected_error": "Attempt nonce used"
+    },
+    {
+      "step": "duplicate",
+      "status": "FINALIZED",
+      "hash": "0xaa135cf3558e29432382808d43e5d2a97e965e1e1f0223cab51c71c8b7814f8a",
+      "execution": "ERROR",
+      "consensus": "MAJORITY_AGREE",
+      "expected_error": "Artifact already compiled"
+    }
+  ]
+}

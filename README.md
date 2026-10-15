@@ -2,6 +2,8 @@
 
 An experimental GenLayer compiler from a published policy to an immutable, four-valued truth table. Compile once through independent validator reasoning; simulate many hypothetical contexts with deterministic reads.
 
+Live StudioNet: [`0x3B25560249B8D5b129e69dE0894E072AdB9F3e55`](https://explorer-studio.genlayer.com/address/0x3B25560249B8D5b129e69dE0894E072AdB9F3e55). [Six finalized transaction proofs](LIVE_PROOFS.md): two compiled artifacts, one HELD attempt, deployment, and two expected rejections. [Portal submission text](SUBMISSION.md).
+
 **Not an authorization system.** Query conditions are hypothetical inputs, not verified observations. The contract never claims a caller is staff, supervised, compliant or physically safe. It stores no funds and executes no real-world action.
 
 ## Problem and why GenLayer
